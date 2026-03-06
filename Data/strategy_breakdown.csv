@@ -1,0 +1,3 @@
+strategy,trades,wins,losses,win_rate,net_pnl,avg_trade,avg_win,avg_loss,profit_factor,largest_win,largest_loss,avg_duration_min,total_pips
+LONDON_1B1S,1451,584,867,40.25,165468.97,114.04,657.11,-251.77,1.7581,9460.17,-5147.1,109.8,9101.4
+RRL,1955,878,1077,44.91,115611.2,59.14,424.72,-238.9,1.4493,6189.66,-3603.96,134.8,16815.6
