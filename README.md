@@ -37,6 +37,7 @@ QUANTUM_US30/
 │   ├── 02_risk_analysis.md            ← Drawdown, Sharpe, Sortino, Calmar
 │   ├── 03_montecarlo_simulation.md    ← 5,000-path Monte Carlo (4 scenarios)
 │   ├── 04_execution_cost_analysis.md. ← Spread, Slippage & Execution Frictions
+|   ├── 05_detailed_metrics.md         ← Index strategy behavior under time-based constraints
 │
 ├── data/
 │   ├── US30_dashboard.xlsx            ← Full information dash board (to download)
